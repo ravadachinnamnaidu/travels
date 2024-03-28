@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.title span{
+color: brown;
+}
+nav{
+    width: 100%;
+    height: 20px;
+    background-color: grey;
+    padding: 11px;
+}
+nav a{
+    margin: 82px;
+    text-decoration: none;
+}
+.kk{
+    width: 40%;
+    height: 26px;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    position: relative;
+    bottom: 380px;
+    left: 400px;
+    padding-left: 20px;
+} 
+.kk a{
+    margin: 43px;
+}
+.kk a:hover{
+    text-decoration:underline;
+    transition: 10ms;
+    color: rgb(41, 41, 55);
+}
+
+
